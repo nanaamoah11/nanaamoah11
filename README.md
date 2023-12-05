@@ -4,6 +4,7 @@ through impactful visualizations.
 
 
 My expertise includes:
+
 📫Python programming and data analysis such as pandas, Numpy and Scikit-learn.
 
 📫Machine learning algorithms such as regression,classificaton,clustering, and deep learning.
